@@ -1,0 +1,113 @@
+/* .logincontainer{
+    background-color: rgb(18, 192, 192);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+
+body {
+  background-color: #a5e5f8;
+}
+
+.registrationcontainer{
+    background-color: rgb(98, 196, 147);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.vrifybtnxontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.vrifybtn{
+    font-size:15px;
+    border-radius: 8px;
+    background-color: #4CAF50;
+     cursor: pointer;
+}
+
+.loginbtn{
+     font-size: 15px;
+    border-radius: 8px;
+    background-color: rgb(255, 165, 0);
+     cursor: pointer;
+}
+
+.registerbtn{
+     font-size: 15px;
+    border-radius: 8px;
+    background-color: rgb(238, 68, 68);
+     cursor: pointer;
+}
+
+.detailbtn{
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: rgb(255, 165, 0);
+     cursor: pointer;
+}
+
+.deletebtn{
+     font-size: 15px;
+    border-radius: 8px;
+    background-color: rgba(255, 0, 21, 0.795);
+     cursor: pointer;
+}
+
+
+.editbtn{
+
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: rgba(0, 255, 128, 0.795);
+     cursor: pointer;
+}
+
+
+.forgbtn{
+
+font-size: 15px;
+    border-radius: 8px;
+    background-color: rgba(80, 221, 99, 0.877);
+     cursor: pointer;
+
+}
+.usertable{
+    background-color: rgb(7, 243, 243);
+}
+
+.resetbtn{
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: rgba(133, 218, 144, 0.877);
+     cursor: pointer;
+}
+
+.updatepassbtn{
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: rgba(133, 218, 144, 0.877);
+     cursor: pointer;
+}
+
+.signoutbtn{
+     background-color: rgba(243, 85, 37, 0.877);
+} */
+
+.login-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 20px rgba(180, 120, 255, 0.3);
+  transition: box-shadow 0.3s ease;
+}
+
+.login-card:hover {
+  box-shadow: 0 0 30px rgba(180, 120, 255, 0.6);
+}
+
+
