@@ -30,15 +30,6 @@ function Registration() {
           navigate(`/verification/${emailVerificationTOken}/${id}`);
 
         })
-        // if (registerUser.fulfilled.match(resultAction)) {
-        //   const { emailVerificationTOken, id } = resultAction.payload;
-        //   console.log("Registration successful:", emailVerificationTOken, id);
-        //   resetForm();
-          // navigate(`/verification/${emailVerificationTOken}/${id}`);
-        // } else {
-        //   alert(resultAction.payload || "Registration failed");
-        
-       // }
       } catch (error) {
         console.error("Registration error:", error);
       } finally {
